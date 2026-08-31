@@ -1,0 +1,14 @@
+# Model artifacts (regenerate by running the notebook)
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
